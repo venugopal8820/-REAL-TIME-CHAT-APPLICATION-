@@ -11,3 +11,8 @@
 
 *DURATION* : 4 WEEKS 
 
+📅 May 26, 2025
+Set up basic project structure for MERN real-time chat app.
+
+Initialized backend with Express and Socket.IO.
+
